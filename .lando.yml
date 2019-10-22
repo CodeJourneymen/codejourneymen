@@ -1,0 +1,6 @@
+name: codejourneymen
+recipe: pantheon
+config:
+  framework: drupal8
+  site: codejourneymen
+  id: 9c8b3599-3fde-4228-88b0-2e3d5b592955
